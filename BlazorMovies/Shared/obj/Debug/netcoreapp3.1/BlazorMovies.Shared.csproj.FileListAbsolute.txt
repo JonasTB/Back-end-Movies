@@ -1,0 +1,9 @@
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/netcoreapp3.1/BlazorMovies.Shared.deps.json
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/netcoreapp3.1/BlazorMovies.Shared.dll
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/netcoreapp3.1/BlazorMovies.Shared.pdb
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/netcoreapp3.1/BlazorMovies.Shared.csprojAssemblyReference.cache
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/netcoreapp3.1/BlazorMovies.Shared.AssemblyInfoInputs.cache
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/netcoreapp3.1/BlazorMovies.Shared.AssemblyInfo.cs
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/netcoreapp3.1/BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/netcoreapp3.1/BlazorMovies.Shared.dll
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/netcoreapp3.1/BlazorMovies.Shared.pdb

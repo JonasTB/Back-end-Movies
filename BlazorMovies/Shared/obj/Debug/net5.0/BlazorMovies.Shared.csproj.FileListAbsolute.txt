@@ -1,0 +1,12 @@
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/net5.0/BlazorMovies.Shared.deps.json
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/net5.0/BlazorMovies.Shared.dll
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/net5.0/ref/BlazorMovies.Shared.dll
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/bin/Debug/net5.0/BlazorMovies.Shared.pdb
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.csprojAssemblyReference.cache
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.AssemblyInfoInputs.cache
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.AssemblyInfo.cs
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.dll
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/ref/BlazorMovies.Shared.dll
+/home/alunom13/Área de Trabalho/ASPNET CORE/BlazorMovies/ASP.NET Core 5/Module 6 - HTTP and Entity Framework Core/Start/BlazorMovies/BlazorMovies/Shared/obj/Debug/net5.0/BlazorMovies.Shared.pdb
